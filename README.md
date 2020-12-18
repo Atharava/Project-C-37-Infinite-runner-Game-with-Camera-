@@ -1,1 +1,2 @@
-# Project-C-37-Infinite-runner-Game-with-Camera-
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
